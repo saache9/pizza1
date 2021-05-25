@@ -1,6 +1,5 @@
 body{
-	background-image: url("images/Bg.jpg");
-	/* background-repeat: no-repeat; */
+color:#e2062c;
 }
 
 .topnav {
@@ -129,4 +128,12 @@ ol.menulist>li
 .card img{
 	width:100px;
 	height: 80px;
+}
+#display_menu,#display_addedmenu,#add_item
+{
+	color: #333;
+	font-size: large;
+    font-style: italic;
+	font-weight: bold;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
